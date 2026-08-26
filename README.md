@@ -2,4 +2,8 @@
 ---
 
 ![bookstack](https://img.shields.io/badge/프로필-BBDDE5.svg?&style=for-the-badge&logo=bookstack&logoColor=white)
-- 경희대학교 수학과 19학번
+- 경희대학교 수학과 (2019.03~2027.02졸업예정)
+- 경희대학교 수학과 학생회 오작교 사무국장(2023.12~2024.11)
+- 경희대학교 WELS 축구부(2019.03~ing)
+- 경희대학교 오반칙 농구부(2019.03~2020.02)
+- 경희대학교 시사이슈토론동아리 쿠스트(2026.03~ing)
