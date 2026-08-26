@@ -2,3 +2,4 @@
 ---
 
 ![bookstack](https://img.shields.io/badge/프로필-BBDDE5.svg?&style=for-the-badge&logo=bookstack&logoColor=white)
+- 경희대학교 수학과 19학번
